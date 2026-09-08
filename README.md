@@ -7,6 +7,7 @@ aspiring to become an ML Engineer.
 - Variables, Data Types, Strings
 - Lists, Tuples, Dictionary, Sets  
 - Loops, Functions, Recursion
+- Module - math 
 - File I/O, Modules, Error Handling
 - Object Oriented Programming (OOP)
 
